@@ -35,8 +35,3 @@ The purpose is to practice clean, professional code development using GitHub, VS
 
 ---
 
-## How to Run
-
-1. Clone this repo to your machine:
-   ```bash
-   git clone https://github.com/Robert-Davis18118/datafun-01-utils.git
